@@ -19,15 +19,15 @@
 # Screenshots:
 Main Activity:
 
-<img width="197" alt="image" src="https://github.com/avidhi2100/CMPE-277-Assignments/assets/143249088/9df514ff-3be1-400f-9db6-ce2fd6a269d5">
+<img width="197" alt="image" src="https://github.com/hhh99-hub/HemangCHATGPT-AuditLog/blob/main/screenshots/SP9.png">
 
 Saving prompt and response:
 
-<img width="237" alt="image" src="https://github.com/avidhi2100/CMPE-277-Assignments/assets/143249088/9caaacb1-6a8c-429e-8139-ead9f15c79b1">
+<img width="237" alt="image" src="https://github.com/hhh99-hub/HemangCHATGPT-AuditLog/blob/main/screenshots/SP12.png">
 
 Displaying the logs:
 
-<img width="237" alt="image" src="https://github.com/avidhi2100/CMPE-277-Assignments/assets/143249088/facb2463-35f8-4217-b24c-735d7d2fcf8d">
+<img width="237" alt="image" src="https://github.com/hhh99-hub/HemangCHATGPT-AuditLog/blob/main/screenshots/SP10.png">
 
 
 
